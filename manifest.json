@@ -1,0 +1,8 @@
+{
+    "name": "mi3Tweaks",
+    "description": "Auto-skip cover songs, copy YouTube links, and set volume with number keys.",
+    "preview": "preview.png",
+    "main": "mi3Tweaks.js",
+    "readme": "README.md",
+    "tags": ["cover", "skip", "youtube", "volume", "hotkeys"]
+}
